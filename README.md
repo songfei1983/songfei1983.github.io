@@ -3,4 +3,4 @@
 
 ### Posts
 
-- [First](./_post/2012-09-12-how-to-write-a-blog.md)
+- [First](./_posts/2012-09-12-how-to-write-a-blog.md)
