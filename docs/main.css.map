@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/fei.song/Develops/go/src/github.com/songfei1983/blog",
+	"sourceRoot": "/Users/fei.song/Develops/github.com/songfei1983/songfei1983.github.io",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
