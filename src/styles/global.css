@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+#about, #experience {
+  scroll-margin-top: 5rem;
+}

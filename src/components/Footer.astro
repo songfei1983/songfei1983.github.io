@@ -1,0 +1,10 @@
+---
+import { siteConfig } from "../config";
+---
+
+<footer class="border-t border-gray-200 bg-gray-50">
+  <div class="mx-auto flex max-w-7xl flex-wrap justify-between gap-4 px-8 py-8 text-sm text-gray-600 sm:px-12 md:px-24">
+    <span>© {new Date().getFullYear()} {siteConfig.name}</span>
+    <a class="underline underline-offset-4" href={siteConfig.social.github}>GitHub</a>
+  </div>
+</footer>

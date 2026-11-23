@@ -13,3 +13,8 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Astro build output
+node_modules/
+.astro/
+dist/
